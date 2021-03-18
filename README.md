@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @bobo7744
+- 👀 I’m interested in frontend
+- 🌱 I’m currently learning Vue.js
+- 💞️ I’m looking to collaborate on various projects
+- 📫 miroslav.bobenic@gmail.com
